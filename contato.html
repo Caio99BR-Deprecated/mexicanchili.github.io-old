@@ -41,26 +41,29 @@
 					<div class="row">
 						<div class="6u">
 							<section>
-								<form name="formulario" action="formulario.php" method="post">
+								<form action="http://www.formulariopro.pog.com.br/formail.php" method="POST">
 									<div class="row 50%">
 										<div class="6u">
-											<input name="nome" type="text" id="nome" required placeholder="Digite seu Nome" />
+											<input name="nome" type="text" required placeholder="Digite seu Nome" />
 										</div>
 										<div class="6u">
-											<input name="email" type="email" id="email" required placeholder="Digite seu E-Mail" />
+											<input name="email" type="email" required placeholder="Digite seu E-Mail" />
 										</div>
 										<div class="6u">
-											<input name="assunto" type="text" id="assunto" required placeholder="Digite o Assunto" />
+											<input name="assunto" type="text" required placeholder="Digite o Assunto" />
 										</div>
 									</div>
 									<div class="row 50%">
 										<div class="12u">
-											<textarea name="mensagem" id="mensagem" required></textarea>
+											<textarea name="mensagem" required></textarea>
 										</div>
 									</div>
 									<div class="row 50%">
 										<div class="12u">
-											<input type="submit" name="Submit" value="Enviar" class="form-button-submit button icon fa-envelope" />
+											<input type="hidden" name="emaildest" value="pizzariamexicanproject@gmail.com">
+											<input type="hidden" name="redirecionar" value="http://www.formulariopro.pog.com.br/obrigado.php">
+											<input type="submit" name="Enviar" value="Enviar">
+											<input type="reset" value="Limpar"></form>
 										</div>
 									</div>
 								</form>
