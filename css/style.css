@@ -485,7 +485,7 @@
 			-webkit-appearance: none;
 			position: relative;
 			display: inline-block;
-			background: #ed786a;
+			background: #ec3237;
 			color: #fff !important;
 			text-transform: uppercase;
 			border-radius: 4px;
@@ -783,14 +783,14 @@
 					#nav > ul > li.active > a:before,
 					#nav > ul > li:hover > a:before
 					{
-						background: #ED786A;
+						background: #00A85A;
 						color: #fff;
 					}
 			
 					#nav > ul > li.active > a > span,
 					#nav > ul > li:hover > a > span
 					{
-						color: #ED786A;
+						color: #00A85A;
 					}
 
 /*********************************************************************************/
