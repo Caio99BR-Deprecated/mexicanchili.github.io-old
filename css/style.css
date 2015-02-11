@@ -55,7 +55,7 @@
 
 	a
 	{
-		color: #666;
+		color: #000000;
 		text-decoration: none;
 		border-bottom: solid 1px #ddd;
 		-moz-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
@@ -76,13 +76,13 @@
 	
 		a:hover
 		{
-			color: #ed786a;
+			color: #ec3237;
 			border-bottom-color: rgba(255,255,255,0);
 		}
 		
 		a:hover strong
 		{
-			color: #ed786a;
+			color: #ec3237;
 		}
 
 	strong, b
@@ -126,6 +126,7 @@
 	p
 	{
 		text-align: center;
+		color: #000000;
 	}
 	
 	p, ul, ol, dl, table, blockquote
@@ -297,8 +298,8 @@
 					left: 0;
 					top: 2em;
 					display: block;
-					background: #878787;
-					color: #e4e4e4;
+					background: #ffffff;
+					color: #000000;
 					width: 1.65em;
 					height: 1.65em;
 					border-radius: 1.65em;
@@ -744,8 +745,8 @@
 				#nav > ul > li > a:before
 				{
 					display: inline-block;
-					background: #878787;
-					color: #e4e4e4;
+					background: #ffffff;
+					color: #000000;
 					width: 1.65em;
 					height: 1.65em;
 					border-radius: 1.65em;
