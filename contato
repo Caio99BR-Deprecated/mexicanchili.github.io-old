@@ -23,11 +23,11 @@
 						<nav id="nav">
 							<ul>
 								<li><a class="icon fa-home" href="index.html"><span>Pagina Inicial</span></a></li>
-								<li><a class="icon fa-cutlery" href="cardapio.html"><span>Nosso Cardapio</span></a></li>
-								<li><a class="icon fa-bars" href="culinaria.html"><span>Culinaria Mexicana</span></a></li>
-								<li><a class="icon fa-picture-o" href="fotos.html"><span>Fotos</span></a></li>
-								<li><a class="icon fa-exclamation-circle" href="contato.html"><span>Contato</span></a></li>
-								<li><a class="icon fa-question" href="sobre.html"><span>Sobre Nós</span></a></li>
+								<li><a class="icon fa-cutlery" href="cardapio"><span>Nosso Cardapio</span></a></li>
+								<li><a class="icon fa-bars" href="culinaria"><span>Culinaria Mexicana</span></a></li>
+								<li><a class="icon fa-picture-o" href="fotos"><span>Fotos</span></a></li>
+								<li><a class="icon fa-exclamation-circle" href="contato"><span>Contato</span></a></li>
+								<li><a class="icon fa-question" href="sobre"><span>Sobre Nós</span></a></li>
 							</ul>
 						</nav>
 
