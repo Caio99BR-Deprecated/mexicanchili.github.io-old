@@ -457,7 +457,7 @@
 			
 				table.default  thead
 				{
-					background: #878787;
+					background: #ffffff;
 					color: #fff;
 					font-weight: 400;
 					text-transform: uppercase;
@@ -523,7 +523,7 @@
 			input[type="reset"]:active,
 			.button:active
 			{
-				background: #ed786a;
+				background: #ec3237;
 			}
 		
 			input[type="button"].alt,
@@ -531,7 +531,7 @@
 			input[type="reset"].alt,
 			.button.alt
 			{
-				background: #878787;
+				background: #ffffff;
 			}
 
 				input[type="button"].alt:hover,
@@ -547,7 +547,7 @@
 				input[type="reset"].alt:active,
 				.button.alt:active
 				{
-					background: #878787;
+					background: #ffffff;
 				}
 
 	/* Box */
@@ -703,7 +703,7 @@
 		{
 			font-family: 'Vivaldi';
 			font-weight: 700;
-			color: #ed786a;
+			color: #ec3237;
 			text-shadow: 0.05em 0.075em 0 rgba(0,0,0,0.1);
 		}
 
