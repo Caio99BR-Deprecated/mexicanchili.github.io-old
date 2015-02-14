@@ -1,2 +1,9 @@
-@font-face { font-family: Vivaldi; src: url('../fonts/VivaldiItalic.TTF'); } 
-@font-face { font-family: Vivaldi; font-weight: bold; src: url('../fonts/VivaldiItalic.TTF');}
+@font-face {
+	font-family: Vivaldi;
+	src: url('../fonts/VivaldiItalic.TTF');
+	} 
+@font-face {
+	font-family: Vivaldi;
+	font-weight: bold;
+	src: url('../fonts/VivaldiItalic.TTF');
+	}
