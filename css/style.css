@@ -36,14 +36,14 @@
 	{
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #777;
+		color: #000000;
 	}
 	
 	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 600;
 		text-transform: uppercase;
-		color: #888;
+		color: #000000;
 	}
 	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -349,7 +349,7 @@
 			{
 				font-weight: 600;
 				text-transform: uppercase;
-				color: #888;
+				color: #000000;
 				display: block;
 				margin: 0 0 1em 0;
 			}
@@ -654,7 +654,11 @@
 	{
 		position: relative;
 		overflow: hidden;
-		background: #fff;
+		background: url("/images/wallpaper.jpg") no-repeat center center; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
 	}
 	
 	#footer-wrapper
@@ -716,7 +720,7 @@
 		{
 			text-transform: capitalize;
 			font-weight: 400;
-			color: #888;
+			color: #000000;
 		}
 
 /*********************************************************************************/
@@ -738,7 +742,7 @@
 				text-decoration: none;
 				text-transform: uppercase;
 				font-weight: 400;
-				color: #777;
+				color: #000000;
 				outline: 0;
 			}
 
