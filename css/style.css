@@ -624,8 +624,6 @@
 
 		#banner-wrapper .inner
 		{
-			background: url('../images/banner.jpg');
-			background-size: cover;
 		}
 
 		#banner-wrapper p
@@ -655,7 +653,7 @@
 	{
 		position: relative;
 		overflow: hidden;
-		background: url("/images/wallpaper.jpg") no-repeat center center; 
+		background: url("../images/wallpaper.jpg") no-repeat center center; 
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
