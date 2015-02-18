@@ -803,9 +803,17 @@
 	font-family: Vivaldi;
 	text-transform: none;
 	}
-	
+
 	span.vivaldi {
 	font-size: 100px;
+	}
+
+	.color-white {
+	background: #ffffff;
+	border-radius: 4px;
+	border: 0;
+	text-align: center;
+	text-align: center;
 	}
 
 /*********************************************************************************/
