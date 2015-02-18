@@ -653,7 +653,7 @@
 	{
 		position: relative;
 		overflow: hidden;
-		background: url("../images/wallpaper.jpg") no-repeat center center; 
+		background: url("../images/wallpaper.jpg") no-repeat scroll center; 
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
